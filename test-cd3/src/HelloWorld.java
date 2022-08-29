@@ -5,7 +5,11 @@ public class HelloWorld {
 
         //Mỗi bạn thêm dòng code in Họ và tên + Ngày sinh
         //Thêm chú thích khi commit + push
-        System.out.println("Đức đẹp trai");
-        System.out.println("06/07/2001")
+        System.out.println("1. Đức đẹp trai");
+        System.out.println("06/07/2001");
+        System.out.println("2. Trần Duy Tài");
+        System.out.println("12/10/2001");
+
+
     }
 }

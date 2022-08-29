@@ -19,5 +19,7 @@ public class HelloWorld {
         System.out.println("06/05/2001");
         System.out.println("7 hoang van thang");
         System.out.println("2001");////
+        System.out.println("8 Hoàng Văn Thắng");
+        System.out.println("10/10/2001");
 }
 }

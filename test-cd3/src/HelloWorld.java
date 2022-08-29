@@ -15,7 +15,5 @@ public class HelloWorld {
         System.out.println("16/6/2001");
         System.out.println("5. Nguyễn Ngọc Tuấn");
         System.out.println("01/01/2001");
-        System.out.println("6. Hoàng Văn Thắng");
-        System.out.println("10/10/2001");
     }
 }

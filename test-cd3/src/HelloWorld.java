@@ -9,7 +9,5 @@ public class HelloWorld {
         System.out.println("06/07/2001");
         System.out.println("2. Trần Duy Tài");
         System.out.println("12/10/2001");
-
-
     }
 }

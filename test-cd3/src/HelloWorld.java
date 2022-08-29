@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("Tạo commit thứ 2");
 
         //Mỗi bạn thêm dòng code in Họ và tên + Ngày sinh
+        //Thêm chú thích khi commit + push
     }
 }
